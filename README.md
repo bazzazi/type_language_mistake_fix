@@ -26,7 +26,7 @@ sudo apt install python3-pip
 ## Copyright :copyright:
 :warning: You should mention the Developer in any kind of usage of this project.
 
-## Screenshots 📷:
+## Screenshots 📷
 
 <img src="images/sample.gif" width='250px' style="border:2px solid black">
 
