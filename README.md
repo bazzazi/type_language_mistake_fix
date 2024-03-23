@@ -4,7 +4,7 @@ Hi everybody :wave:
 Hope you doing well :blush:
 
 This `Python` script will help you in typing when you want to type in `English` but you accidentally type in `Persian`.
-Just by pressing `F8` on your keyboard, you can change all mistyped statements to `English` or vice versa.
+Just select and press `F8` on your keyboard, you can change all mistyped statements to `English` or vice versa.
 See the following screenshot.
 
 ## Platforms :iphone::computer:
